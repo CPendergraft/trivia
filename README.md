@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## Film Trivia game driven by opentdb.org 
+## Film Trivia game driven by opentdb.com 
 
 ## React/Redux/Material-ui
 
