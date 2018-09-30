@@ -14,4 +14,4 @@ run yarn start to initialize, after installing all the dependencies. Project wil
 
 ## Scoring 
 
-Users earn a point per correct answer but must select the correct answer to proceed to the next question. Every wrong answer deducts a .33 point from score. After wrong answer, the answers are shuffled. Users must pay attention to the answers they have selected previously. User will be presented with a score at end of quiz. 
+Users earn a point per correct answer but must select the correct answer to proceed to the next question. Every wrong answer deducts a .33 point from score. After wrong answer, the answers are shuffled. Users must pay attention to the answers that they have selected previously. User will be presented with a score at end of quiz. 
