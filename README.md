@@ -9,4 +9,4 @@ Project was build with redux, react router 4 and the opentdb.api.
 
 ## Yarn 
 
-run yarn start to initialize, after install dependencies. will run local  
+run yarn start to initialize, after installing all the dependencies. Project will run on localhost:3000/  
