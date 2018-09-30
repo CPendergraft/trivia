@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-## React/Redux
+## React/Redux/Material-ui
 
 Project was build with redux, react router 4 and the opentdb.api. 
 
