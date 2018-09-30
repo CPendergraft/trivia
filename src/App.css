@@ -1,0 +1,77 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+.no_margin{
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0)!important;
+  background: rgba(255, 255, 255, 0)!important;
+}
+.no_margin ul{
+
+  background-color: rgba(255, 255, 255, 1)!important;
+  background: rgba(255, 255, 255, 1)!important;
+}
+.no_margin li{
+
+  background-color: rgba(255, 255, 255, 0)!important;
+  background: rgba(255, 255, 255, 0)!important;
+}
+.leaderboard{
+  z-index: 100;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+.intro_bg{
+  background-image: url('https://res.cloudinary.com/sickluggage-com/image/upload/v1538347392/BG3.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  display: inline-flex;
+
+}
+.quiz_bg{
+
+  background-image: url('https://res.cloudinary.com/sickluggage-com/image/upload/v1538347393/BG2.jpg');
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: inline-flex;
+  align-items: center;
+
+}
+
+.quiz_bg ul{
+  background-color: rgba(255, 255, 255, 0);
+  background: rgba(255, 255, 255, 0)!important;
+}
+.col_1{
+  width: 13vw;
+
+  height: 100vh;
+}
+.col_2{
+  width: 53vw;
+  margin: 0 auto;
+  padding-top: 40px;
+  height: 100vh;
+  text-align: center;
+
+}
+.col_2 Button{
+  margin: 10px;
+}
+.col_2 img{
+  max-width: 500px;
+  width: 70%;
+  min-width: 300px;
+}
+.col_3{
+  width: 33vw;
+
+  height: 100vh;
+}
